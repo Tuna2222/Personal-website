@@ -1,4 +1,4 @@
-baseURL: https://hugo-apero-docs.netlify.app/
+baseURL: https://tuna22.github.io/
 languageCode: en
 theme: hugo-apero
 title: Tunan Wang's Homepage
@@ -76,7 +76,7 @@ menu:
       url: /Research/
       weight: 1
     - name: Teaching
-      title: learn more about using the Hugo Apéro theme
+      title: teach
       url: /teach/
       weight: 2
     - name: Talks
