@@ -76,7 +76,7 @@ menu:
       url: /Research/
       weight: 1
     - name: Teaching
-      title: learn more about using the Hugo Apéro theme
+      title: teach
       url: /teach/
       weight: 2
     - name: Talks
