@@ -27,7 +27,7 @@ images:
 show_action_link: false
 show_social_links: false
 title: Tunan Wang
-subtitle: We can only converge to perfect.
+subtitle: Recognize yourself iteratively and step out consistently, with hammer.
 text_align_left: true
 ---
 
