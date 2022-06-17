@@ -9,14 +9,8 @@ subtitle:
 tags:
 - recipe
 title: '川菜'
-weight: 1
+weight: 0
 show_comments: true
----
-
-## G
-
-### 桂花红豆粥
-
 ---
 
 ## M

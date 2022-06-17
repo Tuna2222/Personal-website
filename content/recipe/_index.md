@@ -12,7 +12,7 @@ cascade:
     text_contents_label: 首字母
     text_link_label: ''
     text_link_url: ''
-    text_series_label: 菜系
+    text_series_label: 类别
   type: blog
 description: |
   Start using Hugo Apéro with GitHub, Netlify, and the blogdown R package with RStudio.
