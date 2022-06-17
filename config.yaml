@@ -1,7 +1,7 @@
 baseURL: https://tunan-wang.netlify.app/
 languageCode: en
 theme: hugo-apero
-title: Tunan Wang's Homepage
+title: Tunan's Homepage
 author: Tunan Wang
 copyright: 'Tunan Wang'
 googleAnalytics: ''
@@ -87,10 +87,14 @@ menu:
       title: CV
       url: https://github.com/Tuna22/CV/blob/main/CV%20Tunan%20Wang.pdf
       weight: 4
-    - name: 博客
+    - name: Blog
       title: collection
       url: /collection/
       weight: 5
+    - name: recipe
+      title: recipe
+      url: /recipe/
+      weight: 6      
       
 privacy:
   disqus:
