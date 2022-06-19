@@ -9,7 +9,7 @@ subtitle:
 tags:
 - recipe
 title: '川菜'
-weight: -1
+weight: -2
 show_comments: true
 ---
 

@@ -4,12 +4,12 @@ categories:
 date: "2018-01-01"
 draft: false
 excerpt: '我吃的次数最多的菜'
-slug: course-2022
+slug: normal
 subtitle: 
 tags:
 - recipe
 title: '日常通勤菜'
-weight: 0
+weight: -1
 show_comments: true
 ---
 
