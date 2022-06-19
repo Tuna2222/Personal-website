@@ -23,7 +23,7 @@ show_post_thumbnail: false
 sidebar:
   author: ''
   description: |
-    这里是我觉得还挺好吃的菜谱。基本没有正宗的，都是经过了我这个北方家庭煮夫的改良。
+    这里是我觉得还挺好吃的菜谱。基本没有正宗的，都是经过了我这个北方煮夫的改良。
   show_sidebar_adunit: false
   text_link_label: ''
   text_link_url: ''
