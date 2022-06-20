@@ -57,7 +57,7 @@ params:
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: hugo-apero/hugo-apero-docs
+    repo_name: Tuna22/tunan-wang.netlify.app
     theme: boxy-light
     use_utterances: yes
 taxonomies:
