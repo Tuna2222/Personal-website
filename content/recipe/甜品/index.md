@@ -17,5 +17,8 @@ show_comments: true
 
 ### 桂花红豆粥
 
+<div align = center><img src="gui_hua_hong_dou.jpg" alt="桂花红豆粥" width="500"/></div>
+
+
 
 

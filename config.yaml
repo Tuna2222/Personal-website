@@ -87,11 +87,11 @@ menu:
       title: CV
       url: https://github.com/Tuna22/CV/blob/main/CV%20Tunan%20Wang.pdf
       weight: 4
-    - name: 博客
+    - name: Blog
       title: collection
       url: /collection/
       weight: 5
-    - name: 菜谱
+    - name: Recipe
       title: recipe
       url: /recipe/
       weight: 6      
