@@ -23,7 +23,7 @@ show_post_thumbnail: false
 sidebar:
   author: ''
   description: |
-    Mainly on optimization.
+    Mainly on optimization. For now, doing some distributed optimization things with a nice guy, [Prof. Albert](https://ioe.engin.umich.edu/people/berahas-albert-s/).
   show_sidebar_adunit: false
   text_link_label: ''
   text_link_url: ''
