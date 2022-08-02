@@ -18,7 +18,7 @@ HUGO_ENV = "production"
 
   [plugins.inputs]
     ext = "html"
-    config = ".htmlvalidate.json"
+    config = ""
 
 # Specific branch context: all deploys from this specific branch will inherit
 # these settings.
