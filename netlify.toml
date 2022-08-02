@@ -13,6 +13,13 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 [context.production.environment]
 HUGO_ENV = "production"
 
+[[plugins]]
+  package = "netlify-plugin-html-validate"
+
+  [plugins.inputs]
+    ext = "html"
+    config = ".htmlvalidate.json"
+
 # Specific branch context: all deploys from this specific branch will inherit
 # these settings.
 # https://community.netlify.com/t/deploy-branch-without-default-site-settings/22053/9
