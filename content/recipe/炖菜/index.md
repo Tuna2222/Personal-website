@@ -4,7 +4,7 @@ categories:
 date: "2018-01-01"
 draft: false
 excerpt: '咕嘟咕嘟'
-slug: normal
+slug: 炖菜
 subtitle: 
 tags:
 - recipe

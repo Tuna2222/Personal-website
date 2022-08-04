@@ -3,8 +3,8 @@ categories:
 - 炒菜
 date: "2018-01-01"
 draft: false
-excerpt: '好吧，是一个天津人搞的伪川菜。'
-slug: course-2022
+excerpt: '胡图图胡炒糊锅底，大耳朵大笑打呃逆'
+slug: 炒菜
 subtitle: 
 tags:
 - recipe
