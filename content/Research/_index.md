@@ -9,10 +9,10 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: true
-    text_contents_label: 小节/Sections
+    text_contents_label: Sections
     text_link_label: ''
     text_link_url: ''
-    text_series_label: 故事/Stories
+    text_series_label: Projects
   type: blog
 description: |
   Start using Hugo Apéro with GitHub, Netlify, and the blogdown R package with RStudio.
