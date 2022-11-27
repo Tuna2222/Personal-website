@@ -24,9 +24,7 @@ sidebar:
   author: ''
   description: |
 
-    故事都是虚构的，只有实践是真实的。
-
-    Stories are fake, practice is the truth.
+    Mainly on optimization. For now, doing some distributed optimization things with a brilliant man, [Prof. Albert](https://ioe.engin.umich.edu/people/berahas-albert-s/).
   show_sidebar_adunit: false
   text_link_label: ''
   text_link_url: ''
