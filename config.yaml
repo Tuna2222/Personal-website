@@ -73,7 +73,7 @@ menu:
   header:
     - name: Research
       title: Research experiences
-      url: /Research/
+      url: /research/
       weight: 1
     - name: CV
       title: CV
