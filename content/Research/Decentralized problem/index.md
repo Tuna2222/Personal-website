@@ -1,7 +1,7 @@
 ---
 categories:
 - decentralized
-date: "2018-01-01"
+date: "2022-11-27"
 draft: false
 excerpt: 'SQP-based algorithm with stochastic constraints, developed for decentralized problems.'
 slug: decentralized-Albert
@@ -16,6 +16,7 @@ tags:
 title: 'Partial constrained method'
 weight: 2
 ---
+
 <script type = "text/javascript" src = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 Without rigorous definition, I want to give you a general description and intuition on what are we doing.
 ## Introduction

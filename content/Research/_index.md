@@ -11,7 +11,7 @@ cascade:
     show_sidebar_adunit: true
     text_contents_label: Sections
     text_link_label: ''
-    text_link_url: /Research/
+    text_link_url: ''
     text_series_label: Projects
   type: blog
 description: |
@@ -26,7 +26,7 @@ sidebar:
     Mainly on optimization. For now, doing some distributed optimization things with a brilliant man, [Prof. Albert](https://ioe.engin.umich.edu/people/berahas-albert-s/).
   show_sidebar_adunit: false
   text_link_label: ''
-  text_link_url: /Research/index.xml
+  text_link_url: ''
   title: Research
 thumbnail_left: true
 title: Research
