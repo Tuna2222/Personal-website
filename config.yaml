@@ -74,23 +74,23 @@ menu:
     - name: Research
       title: Research
       url: /Research/
-      weight: 1
+      weight: 2
     - name: CV
       title: CV
       url: https://github.com/Tuna22/CV/blob/main/CV%20Tunan%20Wang.pdf
-      weight: 2
-    - name: Story
+      weight: 3
+    - name: story
       title: story
       url: /story/
-      weight: 3
-    - name: Recipe
+      weight: 4
+    - name: recipe
       title: recipe
       url: /recipe/
-      weight: 4   
-    - name: Blog
+      weight: 5   
+    - name: blog
       title: collection
       url: /collection/
-      weight: 5
+      weight: 6
       
       
 privacy:
