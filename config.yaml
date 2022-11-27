@@ -72,29 +72,26 @@ menu:
       weight: 1
   header:
     - name: Research
-      title: Research experiences
+      title: Research
       url: /Research/
       weight: 1
-    - name: Teaching
-      title: teach
-      url: /teach/
-      weight: 2
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 3
     - name: CV
       title: CV
       url: https://github.com/Tuna22/CV/blob/main/CV%20Tunan%20Wang.pdf
-      weight: 4
-    - name: Blog
-      title: collection
-      url: /collection/
-      weight: 5
+      weight: 2
+    - name: Story
+      title: story
+      url: /story/
+      weight: 3
     - name: Recipe
       title: recipe
       url: /recipe/
-      weight: 6      
+      weight: 4   
+    - name: 博客
+      title: collection
+      url: /collection/
+      weight: 5
+      
       
 privacy:
   disqus:

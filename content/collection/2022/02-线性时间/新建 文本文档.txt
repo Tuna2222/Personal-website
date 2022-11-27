@@ -1,0 +1,33 @@
+---
+title: "线性时间的错觉"
+weight: 1
+subtitle: 
+excerpt: “城市的生活只有唯一的一天，但它却重复了无数遍”
+date: 2022-06-12
+show_comments: true
+---
+
+&emsp;&emsp; 提纲：1、什么是线性时间 2、为什么我们需要线性时间 3、为什么说资本下的无产没有线性时间
+4、劳动到底是什么 5、但为什么不应该酷爱劳动 6、不是不劳动，是适度劳动
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]:[[1]宋希仁.怎样理解“共产主义者不向人们提出道德上的要求”[J].思想理论教育导刊,2006(01):6-11.（这个链接国外打不开，想看的话可以搜这个标题看网页快照）](http://lib.cufe.edu.cn/upload_files/other/4_20140520035648_%E6%80%8E%E6%A0%B7%E7%90%86%E8%A7%A3_%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%80%85%E4%B8%8D%E5%90%91%E4%BA%BA%E4%BB%AC%E6%8F%90%E5%87%BA%E9%81%93%E5%BE%B7%E4%B8%8A%E7%9A%84%E8%A6%81%E6%B1%82_%E5%AE%8B%E5%B8%8C%E4%BB%81.pdf)
+
+## 月牙五更狂想曲
+### 网易云
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1906300794&auto=1&height=66"></iframe>
+
+### Youtube
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qK-FV51CKR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

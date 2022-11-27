@@ -27,7 +27,7 @@ images:
 show_action_link: false
 show_social_links: false
 title: Tunan Wang
-subtitle: Recognize yourself iteratively and step out consistently, with hammer.
+subtitle: Recognize yourself iteratively and step out consistently.
 text_align_left: true
 ---
 
