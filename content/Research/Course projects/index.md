@@ -13,7 +13,7 @@ tags:
 - graduate
 - optimization
 title: 'Course projects in 2022-Fall'
-weight: 2
+weight: 1
 ---
 
 ## IOE-511/MATH-562
