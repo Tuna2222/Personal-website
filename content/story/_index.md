@@ -27,6 +27,10 @@ sidebar:
     故事都是虚构的，只有实践是真实的。
 
     Stories are fake, practice is the truth.
+
+    想在哪片帝国的天空下生活是人们的自由，我要回到生我养我的地方。
+
+    Any countries can be your home, and I will be back to where I was.
   show_sidebar_adunit: false
   text_link_label: ''
   text_link_url: ''
