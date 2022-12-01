@@ -31,7 +31,14 @@ Without rigorous definition, I want to give you a general description and intuit
     padding: 2px;">Connected graph</div>
 </center>
 
-In total, we have \\(N\\) nodes; each node has \\(p\\) dimensions and distinct objective function \\(f_i\\).
+In total, we have \\(N\\) nodes; each node has \\(p\\) dimensions and distinct objective function \\(f_i\\). Each node can only use the information 
+of its own and the nodes connected to it. For example, thinking of these nodes as computers, then the connected nodes represent the computers that are close to each other 
+in real-world distance.
+
+Then, how to find a real-world problem using this setting?
+
+Consider the situation that we are evaluating a loss function with many local data in different computers. The privacy or communication cost requires each computer to evaluate different 
+loss functions, by only getting access to limited information from their "neighbors". That's where the setting comes into play.
 
 **The problem that we want to solve is**:
 $$
@@ -90,10 +97,8 @@ This reformulation is equivalent to[^1]:
 \end{align}
 
 
-## Some intuition and application
 
-Consider the situation that we are evaluating a loss function with many local data in different computers. The privacy or communication cost requires each computer to evaluate different 
-loss functions, by only getting access to limited information from their "neighbors". That's where the setting comes into play.
+
 
 
 [^1]:[A. Nedic and A. Ozdaglar, "Distributed Subgradient Methods for Multi-Agent Optimization," in IEEE Transactions on Automatic Control, vol. 54, no. 1, pp. 48-61, Jan. 2009, doi: 10.1109/TAC.2008.2009515.](https://ieeexplore.ieee.org/document/4749425)
