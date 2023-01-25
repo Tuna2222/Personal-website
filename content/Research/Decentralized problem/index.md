@@ -53,12 +53,7 @@ However, this kind of constraints will make SQP (Sequential
 Quadratic Programming) method move inside the polyhedron formed by each nodes' initial points. What's more, in this formulation, we can only move in the consensus average sense, which 
 only give us bad results and make SQP method useless here.
 
-**With the above thoughts, we change the formulation into**:
-\begin{align}
-    \min_{x_i\in \mathbb{R}^p} \quad &\sum_{i = 1}^{N} f_i(x_i) \\\\
-    \textbf{s.t.} \quad& x_{i_k} = [\mathbf{Zx}]_{i_k}, \qquad i = 1, \ldots, N
-\end{align}
-where we just select parts of the full constraint (\ref{1}) (\\(k\\) represents iterations). What we are doing here is, relaxing the constraints into a stochastic version which 
+**With the above thoughts, we change the formulation with a approximation of the constraints.** What we are doing now is, relaxing the constraints into a stochastic version which 
 can make SQP method work; and seek a good convergence performance with this Newton-like method. 
 
 In our project, we are developing a SQP-based algorithm with our last formulation. That is, **partial constraint method**.
