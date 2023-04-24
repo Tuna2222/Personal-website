@@ -1,17 +1,17 @@
 ---
 categories:
-- experiment
-date: "2022-11-26"
+- developed country
+date: "2023-4-24"
 draft: false
-excerpt: ''
+excerpt: '日不落帝国的往事。'
 slug: experiment
-subtitle: 日不落帝国的往事.
+subtitle: ''
 tags:
-- 2022
+- 2023
 - story
-- experiment
+- developed country
 title: '发达国家'
-weight: 0
+weight: 2
 ---
 
 ## 胡说八道
