@@ -1,15 +1,15 @@
 ---
 categories:
-- developed country
+- developed_country
 date: "2023-4-24"
 draft: false
 excerpt: '日不落帝国的往事。'
-slug: experiment
+slug: developed country
 subtitle: ''
 tags:
 - 2023
 - story
-- developed country
+- developed_country
 title: '发达国家'
 weight: 2
 ---
