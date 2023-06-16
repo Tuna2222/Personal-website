@@ -5,17 +5,18 @@ action_type: text
 description: |
   Welcome to my homepage!
   
-  I am currently a first-year Master student in Applied Statistics at the Department of Statistics (STATS) at the University of Michigan, Ann Arbor.
-  Before joining Umich, I completed my undergraduate at Shandong University.
+  I am currently a first-year P.h.D. student in Computer Science at the School of Computer, Data & Information Sciences at the University of Wisconsin-Madison. 
+  Before joining UWM, I completed my Master's degree at University of Michigan, Ann Arbor and undergraduate at Shandong University.
   
   - **Research interest**: I am broadly interested in optimization problems. Some recent topics includes
   
     - Decentralized optimization
 
-  - **Email**: wtunan@umich.edu	
+  - **Email**: tunan.wang@wisc.edu	
   
   - **Education**:
-    - M.S., Applied Statistics, University of Michigan, Ann Arbor(ongoing)
+    - Incoming P.h.D candidate, Computer Science, University of Wisconsin-Madison (ongoing)
+    - M.S., Applied Statistics, University of Michigan, Ann Arbor
     - B.S., Statistics, Shandong University
   
   - **News**:
