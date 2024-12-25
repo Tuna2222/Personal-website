@@ -24,7 +24,7 @@ sidebar:
   author: ''
   description: |
 
-    Mainly on optimization. For now, doing some distributed optimization things with a brilliant man, [Prof. Albert](https://ioe.engin.umich.edu/people/berahas-albert-s/).
+    Mainly on optimization. For now, doing some non-smooth subgradient evaluation things with [Prof. Vivak Patel](https://stat.wisc.edu/staff/patel-vivak/). Before came to UW-madison, I worked with [Prof. Albert](https://ioe.engin.umich.edu/people/berahas-albert-s/) on distributed optimization.
   show_sidebar_adunit: false
   text_link_label: ''
   text_link_url: ''
