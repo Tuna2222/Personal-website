@@ -48,7 +48,7 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/Tuna22/
+      url: https://github.com/Tuna2222/
   socialInFooter: no
   socialInHeader: yes
   textFontFamily: sans-serif
@@ -77,7 +77,7 @@ menu:
       weight: 1
     - name: CV
       title: CV
-      url: https://github.com/Tuna22/CV/blob/main/CV%20Tunan%20Wang.pdf
+      url: https://github.com/Tuna2222/CV-Resume/blob/master/CV.pdf
       weight: 2
     - name: Story
       title: story

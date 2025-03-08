@@ -1,14 +1,14 @@
 ---
 categories:
 - decentralized
-date: "2022-11-27"
+date: "2025-03-07"
 draft: false
 excerpt: 'SQP-based algorithm with stochastic constraints, developed for decentralized problems.'
 slug: decentralized-Albert
 subtitle: |
     On-going project.
 tags:
-- 2022
+- 2025
 - Albert
 - decentralized
 - SQP
